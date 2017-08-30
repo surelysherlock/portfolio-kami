@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://surelysherlock.github.io" # the base hostname & protocol for your site
+# url: "http://surelysherlock.github.io" # the base hostname & protocol for your site
+url: "http://www.raadplays.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
