@@ -13,5 +13,4 @@ Please contact me via email, phone or twitter =)
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
-  <input type='submit' value='Send Message' />
 </form>
